@@ -5,6 +5,5 @@
 - 📫 How to reach me on linkedin? ➕ linkedin.com/in/basavaprasad-gola-997864137/
 
 <!---
-prasadgola/prasadgola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+prasadgola/prasadgola is a ✨ special ✨ repository because its `README.md`.
 --->
